@@ -1,3 +1,3 @@
 export const environment = {
-  SERVER_URL:""
+SERVER_URL: ""
 };
